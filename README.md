@@ -7,4 +7,5 @@ test5
 test6  
 test7  
 from text area  
-test auth
+test auth  
+test token
