@@ -8,4 +8,5 @@ test6
 test7  
 from text area  
 test auth  
-test token
+test token  
+test only token
