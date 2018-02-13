@@ -9,4 +9,5 @@ test7
 from text area  
 test auth  
 test token  
-test only token
+test only token  
+0.7.1
