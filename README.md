@@ -10,4 +10,5 @@ from text area
 test auth  
 test token  
 test only token  
-0.7.1
+0.7.1  
+0.8.0
