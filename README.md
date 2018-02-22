@@ -11,4 +11,5 @@ test auth
 test token  
 test only token  
 0.7.1  
-0.8.0
+0.8.0  
+from git window
