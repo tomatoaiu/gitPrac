@@ -13,4 +13,5 @@ test only token
 0.7.1  
 0.8.0  
 from git window  
-chore
+chore  
+0.9.0
