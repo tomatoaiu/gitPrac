@@ -15,4 +15,5 @@ test only token
 from git window  
 chore  
 0.9.0  
-from server
+from server  
+clear gui
