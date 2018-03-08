@@ -16,4 +16,5 @@ from git window
 chore  
 0.9.0  
 from server  
-clear gui
+clear gui  
+fix commit stage array
