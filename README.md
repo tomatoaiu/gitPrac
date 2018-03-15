@@ -17,4 +17,6 @@ chore
 0.9.0  
 from server  
 clear gui  
-fix commit stage array
+fix commit stage arra  
+
+tete
