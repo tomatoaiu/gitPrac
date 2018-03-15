@@ -19,4 +19,4 @@ from server
 clear gui  
 fix commit stage arra  
 
-tetetete
+tetetetete
