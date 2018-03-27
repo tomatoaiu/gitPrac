@@ -22,4 +22,5 @@ fix commit stage arra
 tetetetete  
 
 0.9.5  
-0.9.6 desu
+0.9.6 desu  
+github pull
