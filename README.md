@@ -4,10 +4,10 @@ test
 test  
 test  
 test5  
-test6  
+test6  c;akmslka
 test7  janksjcalskdjlaksjna
 from text area  
-test auth  
+test auth  a@spkd@pask
 test token  
 test only token  
 0.7.1  
