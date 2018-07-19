@@ -1,4 +1,4 @@
 # gitPrac
 test  
-test pull
+test pull  
 test merge
