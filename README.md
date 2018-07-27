@@ -1,4 +1,7 @@
 # gitPrac
 test  
 test pull  
-test merge
+test merge  
+  
+  
+from new ui 
