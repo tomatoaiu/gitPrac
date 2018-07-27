@@ -8,4 +8,5 @@ from new ui
 
 test fetch  
 test merge
-
+  
+test basic  
