@@ -6,4 +6,6 @@ test merge
   
 from new ui 
 
-test fetch
+test fetch  
+test merge
+
