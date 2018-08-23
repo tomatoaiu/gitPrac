@@ -10,3 +10,4 @@ test fetch
 test merge
   
 test basic  
+reset index  
