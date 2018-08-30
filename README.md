@@ -11,4 +11,4 @@ test merge
   
 test basic  
 reset index  
-test progress
+test progress fetch
