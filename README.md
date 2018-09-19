@@ -12,4 +12,5 @@ test merge
 test basic  
 reset index  
 test progress fetch4  
-new option
+new option  
+use design pattern
