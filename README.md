@@ -13,4 +13,5 @@ test basic
 reset index  
 test progress fetch4  
 new option  
-use design pattern
+use design pattern  
+useuse
